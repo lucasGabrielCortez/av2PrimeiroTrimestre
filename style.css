@@ -16,3 +16,10 @@ header nav {
     margin-right: 20px;
     text-decoration: none;
 }
+
+main .conteudo{
+    width: 70%;
+    display: flex;
+    justify-content:  center;
+    ba
+}
